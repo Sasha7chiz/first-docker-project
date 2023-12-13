@@ -1,0 +1,259 @@
+﻿.square {
+    height: 750px;
+    width: 350px;
+    background-color: #4B0082;
+    margin-left: 120px;
+    border-radius: 25px;
+    margin-top: 100px;
+}
+.win {
+    margin-top: 10px;
+    margin-left: 400px;
+    font-size: 25px;
+    color: #9400D3;
+    white-space: nowrap;
+    font-family: fantasy;
+}
+.num1 {
+    margin-top: -40px;
+    margin-left: 400px;
+    font-size: 60px;
+    color: #DDA0DD;
+    font-family: "Gill Sans", sans-serif;
+    font-weight: 700;
+}
+.old {
+    margin-top: -179px;
+    margin-left: 900px;
+    font-size: 25px;
+    color: #9400D3;
+    white-space: nowrap;
+    font-family: fantasy;
+}
+.num2 {
+    margin-top: 0px;
+    margin-left: 900px;
+    font-family: "Gill Sans", sans-serif;
+    font-size: 60px;
+    color: #DDA0DD ;
+    font-weight: 700;
+}
+
+.clint {
+    margin-top: -50px;
+    margin-left: 900px;
+    font-size: 25px;
+    color: #9400D3;
+    white-space: nowrap;
+    font-family: fantasy;
+}
+
+.num3 {
+    margin-top: -50px;
+    margin-left: 400px;
+    font-size: 60px;
+    color: #DDA0DD;
+    font-family: "Gill Sans", sans-serif;
+    font-weight: 700;
+}
+
+.project {
+    margin-top: 70px;
+    margin-left: 400px;
+    font-size: 25px;
+    color: #9400D3;
+    white-space: nowrap;
+    font-family: fantasy;
+
+}
+.num4 {
+    margin-top: -120px;
+    margin-left: 900px;
+    font-size: 60px;
+    color: #DDA0DD;
+    font-family: "Gill Sans", sans-serif;
+    font-weight: 700;
+}
+
+.vstup {
+    margin-top: 20px;
+    margin-left: 400px;
+    font-size: 18px;
+    color: #9400D3;
+    white-space: nowrap;
+    font-weight: 600;
+    font-family: "Gill Sans", sans-serif;
+}
+
+.info {
+    margin-top: 50px;
+    margin-left: 400px;
+    font-size: 16px;
+    color: #9400D3;
+    white-space: nowrap;
+    font-weight: 600;
+    font-family: "Gill Sans", sans-serif;
+}
+
+.name {
+    margin-top: -590px;
+    margin-left: 40px;
+    font-size: 19px;
+    color: #DCDCDC;
+    white-space: nowrap;
+    font-weight: 600;
+    font-family: "Gill Sans", sans-serif;
+}
+.name1 {
+    margin-top: 0px;
+    margin-left: 40px;
+    font-size: 16px;
+    color: #FFFFF0;
+    white-space: nowrap;
+    font-weight: 600;
+}
+.namedata {
+    margin-top: 40px;
+    margin-left: 40px;
+    font-size: 16px;
+    color: #DCDCDC;
+    white-space: nowrap;
+    font-weight: 600;
+    font-family: "Gill Sans", sans-serif;
+}
+
+.data {
+    margin-top: 0px;
+    margin-left: 40px;
+    font-size: 16px;
+    color: #FFFFFF;
+    white-space: nowrap;
+    font-weight: 600;
+    font-family: "Gill Sans", sans-serif;
+}
+
+.role {
+    margin-top: 40px;
+    margin-left: 40px;
+    font-size: 16px;
+    color: #DCDCDC;
+    white-space: nowrap;
+    font-weight: 600;
+    font-family: "Gill Sans", sans-serif;
+}
+
+.rolename {
+    margin-top: 0px;
+    margin-left: 40px;
+    font-size: 16px;
+    color: #FFFFFF;
+    white-space: nowrap;
+    font-weight: 600;
+    font-family: "Gill Sans", sans-serif;
+}
+
+
+.email {
+    margin-top: 40px;
+    margin-left: 40px;
+    font-size: 16px;
+    color: #DCDCDC;
+    white-space: nowrap;
+    font-weight: 600;
+    font-family: "Gill Sans", sans-serif;
+}
+.emailname {
+    margin-top: 0px;
+    margin-left: 40px;
+    font-size: 16px;
+    color: #FFFFFF;
+    white-space: nowrap;
+    font-weight: 600;
+    font-family: "Gill Sans", sans-serif;
+}
+
+.phone {
+    margin-top: 40px;
+    margin-left: 40px;
+    font-size: 16px;
+    color: #DCDCDC;
+    white-space: nowrap;
+    font-weight: 600;
+    font-family: "Gill Sans", sans-serif;
+}
+
+.phonename {
+    margin-top: 0px;
+    margin-left: 40px;
+    font-size: 16px;
+    color: #FFFFFF;
+    white-space: nowrap;
+    font-weight: 600;
+    font-family: "Gill Sans", sans-serif;
+}
+.place {
+    margin-top: 40px;
+    margin-left: 40px;
+    font-size: 16px;
+    color: #DCDCDC;
+    white-space: nowrap;
+    font-weight: 600;
+    font-family: "Gill Sans", sans-serif;
+}
+.placename {
+    margin-top: 0px;
+    margin-left: 40px;
+    font-size: 16px;
+    color: #FFFFFF;
+    white-space: nowrap;
+    font-weight: 600;
+    font-family: "Gill Sans", sans-serif;
+}
+
+.public {
+    margin-top: 40px;
+    margin-left: 40px;
+    font-size: 16px;
+    color: #DCDCDC;
+    white-space: nowrap;
+    font-weight: 600;
+    font-family: "Gill Sans", sans-serif;
+}
+.insta {
+    margin-top: 0px;
+    margin-left: 40px;
+    text-decoration: none;
+}
+.fc {
+    margin-top: -11px;
+    margin-left: 30px;
+    text-decoration: none;
+}
+.youtube {
+    margin-top: -59px;
+    margin-left: 25px;
+    text-decoration: none;
+}
+.square2 {
+    height: 40px;
+    width: 220px;
+    background-color: #4B0082;
+    margin-left: 395px;
+    border-radius: 25px;
+    margin-top: -10px;
+}
+.btn {
+    font-size: 16px;
+    color: #FFFFFF;
+    white-space: nowrap;
+    font-weight: 600;
+    margin-left: 400px;
+    background-color: #4B0082;
+    padding: 12px 30px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+.click {
+    margin-top: -51px;
+    margin-left: 90px;
+}
